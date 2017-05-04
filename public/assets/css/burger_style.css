@@ -1,0 +1,19 @@
+.container{
+	background-color: turquoise;
+}
+
+.center {
+  margin: auto;
+  text-align: center;
+}
+
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+}
+
+.task{
+	font-size: 10px;
+}
