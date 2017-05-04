@@ -1,5 +1,5 @@
 {
-  "name": "burger",
+  "name": "sequelizedburger",
   "version": "1.0.0",
   "description": "Make a burger and \"eat\" it",
   "main": "server.js",
@@ -23,5 +23,6 @@
     "express-handlebars": "^3.0.0",
     "method-override": "^2.3.8",
     "mysql": "^2.13.0"
-  }
+  },
+  "devDependencies": {}
 }
