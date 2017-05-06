@@ -9,3 +9,4 @@ id INTEGER NOT NULL auto_increment,
     devoured BOOLEAN default false,
     primary key(id)
 );
+		
